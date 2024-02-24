@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Curriculo Vitae - Kalil de Oliveira</title>
+</head>
+
+<!----------------------------------------------------- CORPO DO SITE ---------------------------------------------->
+
+<body>
+  <!-- 
+  <div class="titulo">
+    <h1>Curriculo Vitae<h1>
+  </div> 
+-->
+  <div class="dados_pessoais">
+    <!-------- DADOS PESSOAIS ------->
+    <div>
+      <p>
+        <strong><big><big><span class="nome">KALIL DE OLIVEIRA</span></big></big></strong>
+      </p>
+      <p>
+        <span class="data_nascimento">Data de Nascimento :</span> <span> 88/88/1988, 46 anos</span>
+      </p>
+      <p>
+        <span class="endereco">Endereço :</span> <span> Rua Principal número 1</span>
+      </p>
+      <p>
+        <span class="telefone">Telefone :</span> <span> (48) 8888-8888</span>
+      </p>
+      <p>
+        <span class="email">Email :</span> <span> kalil.fadesc@gmail.com</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="formacao_academica">
+    <!-------- Formação acadêmica -------->
+    <BR>
+    <p><strong>FORMAÇÃO ACADÊMICA</strong></p>
+    <HR>
+    <Ul>
+      <li>Graduado em Tecnologia pela Universidade de Timbo - Data da Conclusão : 12/2024 </li> <BR>
+      <li>Graduado em Tecnologia pela Universidade de Timbo - Data da Conclusão : 12/2024 </li>
+    </Ul>
+  </div>
+
+  <div class="experiencia_profissional">
+    <!-------- Experiência Profissional -------->
+    <BR>
+    <p><strong>EXPERIÊNCIA PROFISSIONAL</strong></p>
+    <HR>
+    <BR>
+    <p><strong>Um escritório ponto com</strong></p>
+    <p> Desenvolvedor de Sistemas </p>
+    <BR>
+    <p> Período de 1999 a 2024 </p>
+    <BR>
+    <p> Desenvolvimento de sites estáticos e dinâmicos etc. Desenvolvimento de sites estáticos e dinâmicos etc. Desenvolvimento de sites estáticos e dinâmicos etc. Desenvolvimento de sites estáticos e dinâmicos etc. Desenvolvimento de sites estáticos e dinâmicos etc. Desenvolvimento de sites estáticos e dinâmicos etc. </p>
+    <BR>
+  </div>
+
+</body>
+
+</html>
